@@ -1,0 +1,19 @@
+{
+  "name": "node-omx",
+  "version": "0.0.1",
+  "description": "Nodejs Omxplayer wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MadebyAe/node-omx.git"
+  },
+  "author": "Ae <hi@angel-estrada.com> (http://www.angel-estrada.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadebyAe/node-omx/issues"
+  },
+  "homepage": "https://github.com/MadebyAe/node-omx"
+}
