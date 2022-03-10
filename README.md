@@ -1,6 +1,6 @@
 #Node Omx
 
-Node Omx Player for Raspberry Pi
+Node Omx Video Player for Raspberry Pi
 
 ---
 
